@@ -1,6 +1,6 @@
 # Site settings
-title: "Jekyll Resume Template"
-description: "A resume template for Jekyll and GitHub Pages sites."
+title: "seulinger's resume"
+description: "A resume of seulinger"
 
 # Build settings
 markdown: kramdown
@@ -17,10 +17,10 @@ resume_title:                   "(워너비)프로그래머"
 resume_contact_email:           "seulinger+githubprofile@gmail.com"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
-resume_contact_telephone:       "555-7334"
-resume_contact_address:         "742 Evergreen Terrace, Springfield"
+resume_contact_telephone:       ""
+resume_contact_address:         ""
 
-resume_header_contact_info:     "742 Evergreen Terrace, Springfield • 555-7334 • lisasimpson@youremailaddress.com"
+resume_header_contact_info:     ""
 display_header_contact_info:    "false"
 
 resume_header_intro: "<p>프로그래머로써의 첫 발을 내딛어 봅니다.</p>"
