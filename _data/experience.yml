@@ -1,12 +1,24 @@
 # Jobs
-# SeulInger
-- company: SeulInger
-  position: 개발(서버, 클라이언트)
-  duration:  Jun, 2019 &mdash; 현재
-  summary: 웹툰 모아보기 앱 "맑툰" 개발<ul class="resume-item-list"><li>안드로이드 앱 개발</li><li>웹툰 정보 수집 서버 개발</li></ul>
-
 # Lucalab
 - company: Lucalab
   position: 개발(서버, 클라이언트)
   duration:  Feb, 2022 &mdash; 현재
   summary: SNS기반 이커머스 앱 개발<ul class="resume-item-list"><li>iOS 앱 개발</li><li>관련 서버 개발</li></ul>
+  
+# SeulInger
+- company: SeulInger
+  position: 개발(서버, 클라이언트)
+  duration:  Jun, 2019 &mdash; 현재
+  summary: 웹툰 모아보기 앱 "맑툰" 개발<ul class="resume-item-list"><li>안드로이드 앱 개발</li><li>웹툰 정보 수집 서버 개발</li></ul>
+  
+# KAERI
+- company: 한국원자력연구원
+  position: 시설관리
+  duration:  Nov, 2010 &mdash; 현재
+  summary: 한국원자력연구원 내 전자선실증연구동 외 4개 연구시설 구축 및 연구원 내 시설 관리<ul class="resume-item-list"><li>기계 설비</li><li>자동제어 시스템</li></ul>
+  
+# HSHI
+- company: 현대삼호중공업
+  position: 기계설비 설계
+  duration:  Jul, 2007 &mdash; Oct, 2010
+  summary: 원유운반선, 컨테이너선 외 다수 선박 설계 참여<ul class="resume-item-list"><li>선박 내 배관</li><li>선박 내 기계설비 선정</li></ul>
